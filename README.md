@@ -24,7 +24,7 @@ const jsConfetti = new JSConfetti({ canvas })
 ```
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h2>🚬 Customise confetti</h2>
+<h2>🚬 Customize confetti</h2>
 
 <p>Use emojis as confetti:</p>
 
