@@ -26,6 +26,7 @@ Victory: ✌
 
 Evergreen Tree: 🌲	🌲
 
+Leaf fluttering: ![leaf fluttering](https://github.com/user-attachments/assets/fafdb66e-31fa-46a7-a281-c10b9c433dc3)  
 
 
 
