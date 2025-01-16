@@ -12,7 +12,7 @@ Pumpkin: 🎃
 
 Xmas Tree: 🎄
 
-Ok: 👌
+Ok: 👌  ![image](https://github.com/user-attachments/assets/3281d16b-669a-4d8f-b4d9-e49d4b0200ae)
 
 Victory: ✌
 
