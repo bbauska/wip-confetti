@@ -343,7 +343,7 @@ body {
 }
 ```
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h2>⚰ JavaScript Code</h2>
+<h2>☕ ⚰ JavaScript Code</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p>The JavaScript code will be responsible for creating and showing confetti on the web 
 page. We will also explain each line of code step by step, so it's easy to follow.</p>
