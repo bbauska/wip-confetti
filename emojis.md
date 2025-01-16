@@ -2,6 +2,8 @@
 
 Leafless Tree: ![image](https://github.com/user-attachments/assets/d16cf2bc-fc8b-411a-bfae-68bdbc22e357)  ![leafless tree](https://github.com/user-attachments/assets/1f55d768-fb5b-4d02-bbd2-3bd89ded6f6a)
 
+Evergreen Tree: 🌲	🌲
+
 Shovel: ![shovel](https://github.com/user-attachments/assets/1cb10bae-a206-4c49-8b11-30c4460c4eed)
 
 Turnip: ![turnip](https://github.com/user-attachments/assets/2f5ed739-d64c-4366-995e-e8bce22ef0ae)
@@ -14,8 +16,9 @@ Xmas Tree: 🎄
 
 Ok: 👌  ![image](https://github.com/user-attachments/assets/3281d16b-669a-4d8f-b4d9-e49d4b0200ae)
 
-Victory: ✌
+Victory: ✌  
 
+Evergreen Tree: 🌲	🌲
 
 
 
