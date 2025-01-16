@@ -28,6 +28,7 @@ Evergreen Tree: 🌲	🌲
 
 Leaf fluttering: ![leaf fluttering](https://github.com/user-attachments/assets/fafdb66e-31fa-46a7-a281-c10b9c433dc3)  ![leaf fluttering #2](https://github.com/user-attachments/assets/123e0699-f1cf-4ae4-9321-5193314558ce)
 
+Crab: 🦀  ![crab](https://github.com/user-attachments/assets/922fd330-2e6a-48de-868e-6f2e023e06cd)
 
 
 
