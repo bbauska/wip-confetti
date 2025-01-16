@@ -30,7 +30,7 @@ const jsConfetti = new JSConfetti({ canvas })
 
 ```
 jsConfetti.addConfetti({
-   emojis: ['🌈', '⚡️', '💥', '✨', '💫', '🌸'],
+   emojis: ['🌈', '⚡️', '💥', '✨', '💫', '🌸', '🥩'],
 })
 ```
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -364,7 +364,7 @@ container.</p>
 ```
 const showConfetti = () => {
   const confetti = document.createElement('div');
-  confetti.textContent = '🎉';
+  confetti.textContent = '🥩';
   confetti.classList.add('confetti');
   confetti.style.left = Math.random() * innerWidth + 'px';
   confettiContainer.appendChild(confetti);
@@ -376,7 +376,7 @@ const showConfetti = () => {
 ```
 
 <p>In the above function, the code creates a new div element using the createElement() 
-method. It sets the textContent property of the element to "🎉", which is the Unicode 
+method. It sets the textContent property of the element to "🥩", which is the Unicode 
 character for a confetti emoji. The element is then given the CSS class "confetti" 
 using the classList.add() method.</p>
 
@@ -411,7 +411,7 @@ setInterval(() => {
 const confettiContainer = document.querySelector('#confetti-container');
 const showConfetti = () => {
   const confetti = document.createElement('div');
-  confetti.textContent = '🎉';
+  confetti.textContent = '🥩';
   confetti.classList.add('confetti');
   confetti.style.left = Math.random() * innerWidth + 'px';
   confettiContainer.appendChild(confetti);
