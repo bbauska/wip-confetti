@@ -425,3 +425,8 @@ setInterval(() => {
   showConfetti();
 }, 400);
 ```
+
+🍺  👈  👉  👆  🖕  👇  👍  👎  
+
+
+![image](https://github.com/user-attachments/assets/5c3459cd-48c9-491e-8ded-2e238800f821)
