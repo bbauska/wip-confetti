@@ -7,6 +7,11 @@ Turnip: ![turnip](https://github.com/user-attachments/assets/2f5ed739-d64c-4366-
 
 Harp: ![harp](https://github.com/user-attachments/assets/24a9a43b-fcbc-4c50-b826-f368d5a714bc)
 
+Pumpkin: 🎃
+
+Xmas Tree: 🎄
+
+
 
 
 
