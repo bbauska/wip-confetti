@@ -1,0 +1,69 @@
+/* styles.css in Silus-count - silus-counter.bauska.org */
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.back {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  width: 50%;
+  background-color: rgba(255, 0, 0, .7);  /* 65, 105, 224 .7 */
+  border-radius: 10px;
+  box-shadow: 0 0 8px 0 rgb(3, 75, 85);
+  margin-top: 100px;
+}
+
+#clicker {
+  width: 200px;
+  height: 50px;
+  border-radius: 10px;
+  box-shadow: 0 0 8px 0 rgb(255, 255, 185);  /* 3, 75, 185 */
+  background-color: rgba(10, 4, 90, 0.6);
+  color: rgb(255, 255, 255);
+  margin-bottom: 100px;
+  transition: 2s;
+}
+#container-Confetti {
+  width: 200px;
+  height: 50px;
+  border-radius: 10px;
+  box-shadow: 0 0 8px 0 rgb(255, 255, 185);  /* 3, 75, 185 */
+  background-color: rgba(10, 4, 90, 0.6);
+  color: rgb(255, 255, 255);
+  margin-bottom: 100px;
+  transition: 2s;
+}
+
+h1 {
+  color: rgb(255, 255, 255);
+  font-size: 184px;
+  letter-spacing: 0.1em;
+}
+h2 {
+  color: rgb(255, 255, 255);
+  font-size: 40px;
+  letter-spacing: 0.1em;
+}
+h3 {
+  color: rgb(255, 255, 255);
+  font-size: 20px;
+  letter-spacing: 0.1em;
+  background-color: #06302b
+}
+
+@keyframes grow {
+  0% {transform: scale(1);}
+  25% {transform: scale(1.4);}
+  50% {transform: scale(1);}
+  75% {transform: scale(1.4);}
+  100% {transform: scale(1);}
+}
+
+#clicker:hover {
+  animation-name: grow;
+  animation-duration: 60s;
+}
